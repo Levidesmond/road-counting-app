@@ -1,0 +1,36 @@
+body{
+    background-image: url(snow.jpg);
+    background-repeat: no-repeat;
+    padding: 2em;
+    font-weight: bold;
+    text-align: center;
+    background-size: 100vw 100vh;
+}
+
+h1{
+    border: 2px solid red;
+    background-color: beige;
+    padding: 10px 20px;
+    color: black;
+}
+
+#count-el { 
+    font-size: 70px; 
+    font-weight: bold; 
+    color: black; 
+    margin-left: 10px; 
+}
+
+button { 
+    font-size: 30px; 
+    font-weight: bold; 
+    background-color: lightgreen; 
+    padding: 10px 20px; 
+    margin-left: 20px;
+    font-weight: bold; 
+}
+#save-el{
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+}
